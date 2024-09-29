@@ -4,7 +4,7 @@
 
 **This part of the project is currently not completed.**
 
-We are in the process of implementing the required functionalities, and updates will be provided as progress is made.
+I am in the process of implementing the required functionalities, and updates will be provided as progress is made.
 
 ## Overview
 
